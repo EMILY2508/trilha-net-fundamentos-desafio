@@ -1,7 +1,5 @@
 namespace DesafioFundamentos.Models
 {
-    public class Estacionamento
-    {
         public class Estacionamento
 {
     public decimal PrecoInicial { get; set; }
